@@ -1,0 +1,9 @@
+{
+  "name": "TinFoilGalnet",
+  "version": "0.0.1",
+  "description": "Visualizing galnet \"conspiracy\" connections",
+  "main": "index.js",
+  "repository": "https://github.com/KevinStirling/TinFoilGalnet.git",
+  "author": "KevinStirling <youngks93@gmail.com>",
+  "license": "MIT"
+}
