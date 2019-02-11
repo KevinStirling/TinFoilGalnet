@@ -1,0 +1,9 @@
+.story{
+    border-width: 1px;
+    border-color: orangered;
+    border-radius: 3px;
+    border-style: solid;
+    text-overflow: ellipsis;
+    width: 300px;
+    margin-bottom: 15px;
+}
